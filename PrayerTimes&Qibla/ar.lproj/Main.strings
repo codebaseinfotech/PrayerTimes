@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "More"; ObjectID = "02W-Hc-JYf"; */
+"02W-Hc-JYf.text" = "More";
+
+/* Class = "UILabel"; text = "Qibla"; ObjectID = "0IS-MY-XSX"; */
+"0IS-MY-XSX.text" = "Qibla";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "AN7-pg-0Rb"; */
+"AN7-pg-0Rb.text" = "Home";
+
+/* Class = "UILabel"; text = "Mosque"; ObjectID = "BLw-pV-lbT"; */
+"BLw-pV-lbT.text" = "Mosque";
+
+/* Class = "UILabel"; text = "Fajr \n04:32"; ObjectID = "JTL-kh-PWv"; */
+"JTL-kh-PWv.text" = "Fajr \n04:32";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "Sj2-6G-SHA"; */
+"Sj2-6G-SHA.title" = "Home";
+
+/* Class = "UILabel"; text = "Qibla"; ObjectID = "VXr-3A-RX0"; */
+"VXr-3A-RX0.text" = "Qibla";
+
+/* Class = "UITabBarItem"; title = "Prayers"; ObjectID = "WJ5-mR-s1t"; */
+"WJ5-mR-s1t.title" = "Prayers";
+
+/* Class = "UILabel"; text = "Mosque"; ObjectID = "Xlb-Co-fPS"; */
+"Xlb-Co-fPS.text" = "Mosque";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "dIO-j6-3uF"; */
+"dIO-j6-3uF.text" = "Home";
+
+/* Class = "UILabel"; text = "Choose Another Date"; ObjectID = "iRo-2K-g2v"; */
+"iRo-2K-g2v.text" = "Choose Another Date";
+
+/* Class = "UILabel"; text = "More"; ObjectID = "iuc-yf-xeV"; */
+"iuc-yf-xeV.text" = "More";
+
+/* Class = "UILabel"; text = "Prayers"; ObjectID = "sOa-Rg-b9W"; */
+"sOa-Rg-b9W.text" = "Prayers";
+
+/* Class = "UILabel"; text = "Prayers"; ObjectID = "wea-44-OSZ"; */
+"wea-44-OSZ.text" = "Prayers";
+
+/* Class = "UIButton"; normalTitle = "  "; ObjectID = "zjT-Kt-hOy"; */
+"zjT-Kt-hOy.normalTitle" = "  ";

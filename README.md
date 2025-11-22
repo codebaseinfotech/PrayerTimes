@@ -1,2 +1,0 @@
-# PrayerTimes
-CB PrayerTimes

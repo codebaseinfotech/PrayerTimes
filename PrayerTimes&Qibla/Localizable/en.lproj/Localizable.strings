@@ -1,0 +1,289 @@
+/*
+  Localizable.strings
+  Alojeiri
+
+  Created by Ankit Gabani on 26/04/24.
+  
+*/
+
+"Nearest Mosque" = "Nearest Mosque";
+
+"Temperature" = "Temperature";
+
+"Choose Language" = "Choose Language";
+
+"Home" = "Home";
+
+"Astronomy" = "Astronomy";
+
+"Prayers" = "Prayers";
+
+"Agriculture" = "Agriculture";
+
+"Nature" = "Nature";
+
+"Season" = "Season";
+
+"Settings" = "Settings";
+
+"Please Choose your Language" = "Please Choose your Language";
+
+"Weather" = "Weather";
+
+"Humidity" = "Humidity";
+
+"By Day" = "By Day";
+
+"By Night" = "By Night";
+
+"Marine Forecast" = "Marine Forecast";
+
+"State & wave height" = "State & wave height";
+
+"Day" = "Day";
+
+"Night" = "Night";
+
+"State :" = "State :";
+
+"Wave height :" = "Wave height :";
+
+"Alojeri Calendar" = "Alojeri Calendar";
+
+"Full Calendar" = "Full Calendar";
+
+"Ojeiriat" = "Ojeiriat";
+
+"Happened on this day" = "Happened on this day";
+
+"Lowest Tide" = "Lowest Tide";
+
+"Highest Tide" = "Highest Tide";
+
+"Upcoming Holiday" = "Upcoming Holiday";
+
+"Choose another Date" = "Choose another Date";
+
+"Qibla" = "Qibla";
+
+"Crops" = "Crops";
+
+"Palms" = "Palms";
+
+"Birds" = "Birds";
+
+"Notification" = "Notification";
+
+"Language" = "Language";
+
+"About us" = "About us";
+
+"Terms & Conditions" = "Terms & Conditions";
+
+"Privacy Policy" = "Privacy Policy";
+
+"Circulars" = "Circulars";
+
+"Contact Us" = "Contact Us";
+
+"Continue" = "Continue";
+
+"Contact Number" = "Contact Number";
+
+"Email Address" = "Email Address";
+
+"Address" = "Address";
+
+"SEND US A MESSAGE" = "SEND US A MESSAGE";
+
+"Name" = "Name";
+
+"Submit" = "Submit";
+
+"Message" = "Message";
+
+"Phone Number" = "Phone Number";
+
+"FORM SUBMITTED!" = "FORM SUBMITTED!";
+
+"The contact form submitted successfully! Our team will Check and get back to you" = "The contact form submitted successfully! Our team will Check and get back to you";
+
+"Close" = "Close";
+
+"Upcoming" = "Upcoming";
+
+"PERMISSION REQUIRED" = "PERMISSION REQUIRED";
+
+"Location Services" = "Location Services";
+
+"Please enable the Location service to\n View qibla direction" = "Please enable the Location service to\n View qibla direction";
+
+"ALLOW LOCATION" = "ALLOW LOCATION";
+
+"CONNECTION LOST" = "CONNECTION LOST";
+
+"TRY AGAIN" = "TRY AGAIN";
+
+"GPS settings" = "GPS settings";
+
+"GPS is not enabled. Do you want to go to settings menu?" = "GPS is not enabled. Do you want to go to settings menu?";
+
+"Your device doesn\'t have the required sensors" = "Your device doesn\'t have the required sensors";
+
+"This app requires Access Location" = "This app requires Access Location";
+
+"Sea Condition" = "Sea Condition";
+
+"Sea Tide" = "Sea Tide";
+
+"See all" = "See all";
+
+"Powered By Line" = "Powered By Line";
+
+"Please check your Internet connection and try again!" = "Please check your Internet connection and try again!";
+
+"Please enable the \"location\" service to enjoy full application experience*." = "Please enable the \"location\" service to enjoy full application experience*.";
+
+"Distance" = "Distance";
+
+"Weather Condition" = "Weather Condition";
+
+"Altitude:" = "Altitude:";
+
+"Distance:" = "Distance:";
+
+"Illuminated:" = "Illuminated:";
+
+"Posangle:" = "Posangle:";
+
+"Azimuth:" = "Azimuth:";
+
+"Sun" = "Sun";
+
+"Moon" = "Moon";
+
+"Pic of the Day" = "Pic of the Day";
+
+"Announcements" = "Announcements";
+
+"m" = "m";
+
+"km" = "km";
+
+"Time to Athan" = "Time to Athan";
+
+"Search" = "Search";
+
+"To get the destination to your nearest mosque, please allow Alojaryto use your location." = "To get the destination to your nearest mosque, please allow Alojaryto use your location.";
+
+"Cancel" = "Cancel";
+
+"Allow" = "Allow";
+
+"shuwaikh" = "Shuwaikh";
+
+"AL-Ahamadi" = "AL-Ahamadi";
+
+
+
+"fajr" = "Fajr";
+
+"sunrise" = "Sunrise";
+
+"dhuhr" = "Dhuhr";
+
+"asr" = "Asr";
+
+"magrib" = "Maghrib";
+
+"isha" = "Isha";
+
+
+
+"Start Time" = "Start Time";
+
+"End Time" = "End Time";
+
+"Azimuth" = "Azimuth";
+
+"Altitude" = "Altitude";
+
+"Distance" = "Distance";
+
+"Time" = "Time";
+
+"Day Length" = "Day Length";
+
+"Current" = "Current";
+
+"Text" = "Text";
+
+"Posangle" = "Posangle";
+
+"Illuminated" = "Illuminated";
+
+"SKIP FOR NOW" = "SKIP FOR NOW";
+
+"alert" = "Alert!!";
+
+"Qibla Direction" = "Qibla Direction";
+
+"Show Notification" = "Show Notification";
+
+"ft." = "ft.";
+
+"Winter" = "Winter";
+"Spring" = "Spring";
+"Summer" = "Summer";
+"Autumn" = "Autumn";
+
+"Bird can be seen in Kuwait starting from:" = "Bird can be seen in Kuwait starting from:";
+
+"Zodiac Sign" = "Zodiac Sign";
+
+"Star Name" = "Star Name";
+"More" = "More";
+"Calendar" = "Calendar";
+"Products" = "Products";
+"Alojeiri Calendar" = "Alojeiri Calendar";
+
+// number
+"Please input your number to verify" = "Please input your number to verify";
+"Enter phone number" = "Enter phone number";
+"By clicking, I accept the" = "By clicking, I accept the";
+"NEXT" = "NEXT";
+
+// Verification
+"Enter Your\nPhone Number" = "Enter Your\nPhone Number";
+"We Sent a Code Via SMS to" = "We Sent a Code Via SMS to";
+"Didn't Get a SMS?" = "Didn't Get a SMS?";
+"Resend Code" = "Resend Code";
+"VERIFY" = "VERIFY";
+"Enter Your\nVerification Code" = "Enter Your\nVerification Code";
+
+// Signup
+"Your Info" = "Your Info";
+"Full Name" = "Full Name";
+"First Name" = "First Name";
+"Last Name" = "Last Name";
+"Enter full name" = "Enter full name";
+"Enter first name" = "Enter first name";
+"Enter last name" = "Enter last name";
+"Email Address" = "Email Address";
+"Enter email address" = "Enter email address";
+"Add delivery address" = "Add delivery address";
+"SIGN UP" = "SIGN UP";
+
+// Add Address
+"Add Address" = "Add Address";
+"Address name*" = "Address name*";
+"Country*" = "Country*";
+"Governorates*" = "Governorates*";
+"Area*" = "Area*";
+"Block*" = "Block*";
+"Street*" = "Street*";
+"Avenue ( Optional )" = "Avenue ( Optional )";
+"Building number*" = "Building number*";
+"Floor ( Optional )" = "Floor ( Optional )";
+"Apartment number ( Optional )" = "Apartment number ( Optional )";
+"ADD" = "ADD";

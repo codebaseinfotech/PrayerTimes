@@ -1,0 +1,258 @@
+/*
+  Localizable.strings
+  Alojeiri
+
+  Created by Ankit Gabani on 26/04/24.
+  
+*/
+
+"Nearest Mosque" = "اقرب مسجد";
+
+"Temperature" = "درجة الحرارة";
+
+"Choose Language" = "اختر اللغة";
+
+"Home" = "الرئيسية";
+
+"Astronomy" = "الفلك";
+
+"Prayers" = "أوقات الصلاة";
+
+"Agriculture" = "التقويم الزراعي";
+
+"Nature" = "الطبيعة";
+
+"Settings" = "الإعدادات";
+
+"Season" = "الموسم";
+
+"Please Choose your Language" = "الرجاء اختيار اللغة";
+
+"Weather" = "الطقس";
+
+"Humidity" = "رطوبة";
+
+"By Day" = "نهارا";
+
+"By Night" = "ليلا";
+
+"Marine Forecast" = "التوقعات البحرية";
+
+"State & wave height" = "ارتفاع الموج";
+
+"Day" = "نهارا";
+
+"Night" = "ليلا";
+
+"State :" = "الحالة :";
+
+"Wave height :" = "ارتفاع الموجة :";
+
+"Alojeri Calendar" = "تقويم العجيري";
+
+"Full Calendar" = "التقويم";
+
+"Ojeiriat" = "عجيريات";
+
+"Happened on this day" = "حدث في مثل هذا اليوم";
+
+"Lowest Tide" = "أدنى جزر";
+
+"Highest Tide" = "أعلى مد";
+
+"Upcoming Holiday" = "الأجازات القادمة";
+
+"Choose another Date" = "اختر التاريخ";
+
+"Qibla" = "القبلة";
+
+"Crops" = "المحاصيل";
+
+"Palms" = "النخيل";
+
+"Birds" = "الطيور";
+
+"Notification" = "الاشعارات";
+
+"Language" = "اللغة";
+
+"About us" = "من نحن";
+
+"Terms & Conditions" = "الشروط و الاحكام";
+
+"Privacy Policy" = "سياسة الخصوصية";
+
+"Circulars" = "التعاميم";
+
+"Contact Us" = "تواصل معنا";
+
+"Continue" = "استمرار";
+
+"Contact Number" = "رقم الاتصال";
+
+"Email Address" = "البريد الالكتروني";
+
+"Address" = "العنوان";
+
+"SEND US A MESSAGE" = "أرسل لنا رسالة";
+
+"Name" = "الاسم ";
+
+"Submit" = "ارسال";
+
+"Message" = "الرسالة";
+
+"Phone Number" = "رقم الموبايل ";
+
+"FORM SUBMITTED!" = "تم العملية بنجاح";
+
+"The contact form submitted successfully! Our team will Check and get back to you" = "تم إرسال نموذج الاتصال بنجاح! سيقوم فريقنا بالتحقق والرد عليك";
+
+"Close" = "اغلاق";
+
+"Upcoming" = "القادمة";
+
+"PERMISSION REQUIRED" = "الموقع اجباري";
+
+"Location Services" = "خدمات الموقع";
+
+"Please enable the Location service to\n View qibla direction" = "الرجاء تفعيل خدمة الموقع لمعرفة اتجاه القبلة.";
+
+"ALLOW LOCATION" = "تفعيل الموقع";
+
+"CONNECTION LOST" = "انقطع الاتصال";
+
+"TRY AGAIN" = "المحاولة مرة اخرى";
+
+"GPS settings" = "";
+
+"GPS is not enabled. Do you want to go to settings menu?" = "";
+
+"Your device doesn\'t have the required sensors" = "";
+
+"This app requires Access Location" = "";
+
+"Sea Condition" = "حالة البحر";
+
+"Sea Tide" = "المد والجزر";
+
+"See all" = "مشاهدة الكل";
+
+"Powered By Line" = "";
+
+"Please check your Internet connection and try again!" = "";
+
+"Please enable the \"location\" service to enjoy full application experience*." = "يرجى تفعيل خدمة الموقع لمعرفة أتجاه القبله و اقرب مسجد لك";
+
+"Distance" = "المسافة";
+
+"Weather Condition" = "حالة الطقس";
+
+"Altitude:" = "الارتفاع :";
+
+"Distance:" = "المسافة :";
+
+"Illuminated:" = "الاضاءة :";
+
+"Posangle:" = "زاوية المشاركة :";
+
+"Azimuth:" = "الزاوية :";
+
+"Sun" = "الشمس";
+
+"Moon" = "القمر";
+
+"Pic of the Day" = "صورة اليوم";
+
+"Announcements" = "الاعلانات";
+
+"m" = "متر";
+
+"km" = "كم";
+
+"Time to Athan" = "باقي على الأذان";
+
+"Search" = "بحث";
+
+"To get the destination to your nearest mosque, please allow Alojaryto use your location." = "لمعرفة أقرب مسجد لك، يرجى السماح لتطبيق العجيري لستخدام موقعك الحالي.";
+
+"Cancel" = "إلغاء";
+
+"Allow" = "موافق";
+
+"shuwaikh" = "الشويخ";
+
+"AL-Ahamadi" = "الاحمدي";
+
+"fajr" = "الفجر";
+
+"sunrise" = "الشروق";
+
+"dhuhr" = "الظهر";
+
+"asr" = "العصر";
+
+"magrib" = "المغرب";
+
+"isha" = "العشاء";
+
+
+"Start Time" = "وقت البداية";
+
+"End Time" = "وقت الانتهاء";
+
+"Azimuth" = "الزاوية";
+
+"Altitude" = "الارتفاع";
+
+"Distance" = "المسافة";
+
+"Time" = "وقت";
+
+"Day Length" = "طول اليوم";
+
+"Current" = "حاضِر";
+
+"Text" = "النص";
+
+"Posangle" = "زاوية المشاركة";
+
+"Illuminated" = "الاضاءة";
+
+"SKIP FOR NOW" = "تخطى";
+
+"alert" = "تحذير !!";
+
+"Qibla Direction" = "‏اتجاه القبلة";
+
+"Show Notification" = "عرض الإشعارات";
+
+"ft." = "ft.";
+
+"Winter" = "الشتاء";
+"Spring" = "الربيع";
+"Summer" = "الصيف";
+"Autumn" = "الخريف";
+
+"January" = "يناير";
+"February" = "فبراير";
+"March" = "مارس";
+"April" = "أبريل";
+"May" = "مايو";
+"June" = "يونيو";
+"July" = "يوليو";
+"August" = "أغسطس";
+"September" = "سبتمبر";
+"October" = "أكتوبر";
+"November" = "نوفمبر";
+"December" = "ديسمبر";
+
+"Bird can be seen in Kuwait starting from:" = "بداية ظهور الطير في الكويت:";
+
+"Zodiac Sign" = "البرج";
+
+"Star Name" = "المنزلة";
+"More" = "أكثر";
+"Calendar" = "تقويم";
+"Products" = "Products";
+"Alojeiri Calendar" = "Alojeiri Calendar";
